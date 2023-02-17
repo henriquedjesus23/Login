@@ -7,7 +7,7 @@ function ProfileScreen() {
   return (
     <View style={styles.container}>
       <View>
-        <Text>OLá mano</Text>
+        <Text>Olá, sou o Henrique</Text>
       </View>
     </View>
   );
